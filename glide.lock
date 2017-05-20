@@ -1,0 +1,17 @@
+hash: ca029fc2a95f0144e593b55a348572c07bcef265dc37663fa0d7e65591b2048e
+updated: 2017-05-19T23:00:35.313265202+05:30
+imports:
+- name: github.com/streadway/quantile
+  version: b0c588724d25ae13f5afb3d90efec0edc636432b
+- name: github.com/tsenart/vegeta
+  version: 9f28db162ce19bb52817af4fd9b5801b1f2772c5
+  subpackages:
+  - lib
+- name: golang.org/x/net
+  version: 944c58e9d57bcecf171fd4bea155269aa8a96805
+  subpackages:
+  - http2
+  - http2/hpack
+  - idna
+  - lex/httplex
+testImports: []

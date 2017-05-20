@@ -1,0 +1,22 @@
+{  
+   "resourceId":50000036,
+   "conditionId":20037898,
+   "alertDate":"1985-04-12T23:20:50.52Z",
+   "alertDetails":[  
+      {  
+         "key":"createTimeUTC",
+         "datatype":"string",
+         "value":"1985-04-12T23:20:50.52Z"
+      },
+      {  
+         "key":"createdBy",
+         "datatype":"string",
+         "value":"cep"
+      },
+      {  
+         "key":"percentCommittedInUseBytes",
+         "datatype":"long",
+         "value":"23213213"
+      }
+   ]
+}

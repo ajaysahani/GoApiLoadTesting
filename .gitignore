@@ -1,0 +1,7 @@
+vendor
+*.exe
+*.out
+*.xml
+*.log
+*.db
+.vscode

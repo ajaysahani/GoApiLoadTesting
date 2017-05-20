@@ -1,0 +1,5 @@
+package: github.com/practice/ApiTesting
+import:
+- package: github.com/tsenart/vegeta
+  version: ~6.3.0
+- package: github.com/streadway/quantile
